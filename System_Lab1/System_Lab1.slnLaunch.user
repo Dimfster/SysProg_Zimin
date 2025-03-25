@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "System_Lab1\\System_Lab1.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "System_Lab1_CSharp\\System_Lab1_CSharp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

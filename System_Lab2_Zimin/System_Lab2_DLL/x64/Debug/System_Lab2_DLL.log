@@ -1,0 +1,7 @@
+﻿  mydll.cpp
+C:\Users\zimin\Desktop\Зимин Дмитрий\6 семестр\Системное программирование\System_Lab2_Zimin\System_Lab2_DLL\mydll.h(18,35): warning C4190: для "receiveZimin" задана С-связывание, но возвращаемый тип UDT "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>" несовместим с языком Си
+  (компиляция исходного файла "/mydll.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(522,7):
+       см. объявление "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>"
+  
+  System_Lab2_DLL.vcxproj -> C:\Users\zimin\Desktop\Зимин Дмитрий\6 семестр\Системное программирование\System_Lab2_Zimin\x64\Debug\System_Lab2_DLL.dll
