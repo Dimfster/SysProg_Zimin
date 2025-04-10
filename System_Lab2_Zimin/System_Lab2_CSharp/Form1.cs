@@ -2,6 +2,8 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 
 
+
+
 namespace System_Lab1_CSharp
 {
     public partial class Form1 : Form
